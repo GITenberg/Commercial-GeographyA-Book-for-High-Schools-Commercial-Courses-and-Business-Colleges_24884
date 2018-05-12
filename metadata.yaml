@@ -1,0 +1,29 @@
+_repo: Commercial-GeographyA-Book-for-High-Schools-Commercial-Courses-and-Business-Colleges_24884
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Redway, Jacques W. (Jacques Wardlaw)
+    birthdate: 1849
+    deathdate: 1942
+    gutenberg_agent_id: '26792'
+    url: http://www.gutenberg.org/2009/agents/26792
+description: ''
+gutenberg_bookshelf: Children's Instructional Books
+gutenberg_issued: '2008-03-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24884'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HF'
+- !lcsh 'Commercial geography'
+title: 'Commercial Geography
+
+  A Book for High Schools, Commercial Courses, and Business Colleges'
+url: http://www.gutenberg.org/ebooks/24884
