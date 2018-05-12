@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '26792'
     url: http://www.gutenberg.org/2009/agents/26792
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24884#Commercial-GeographyA-Book-for-High-Schools-Commercial-Courses-and-Business-Colleges
 gutenberg_bookshelf: Children's Instructional Books
 gutenberg_issued: '2008-03-20'
 gutenberg_type: Text
